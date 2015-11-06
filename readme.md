@@ -1,6 +1,6 @@
 ## Good Karma
 
-Magical Karma.js Testing
+Magical and Readable Karma.js Testing
 
 Do this:
 
